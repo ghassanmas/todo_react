@@ -1,5 +1,5 @@
 import React from "react";
-import "materialize-css/dist/js/materialize.min.js";
+//import "materialize-css/dist/js/materialize.min.js";
 
 export class Form extends React.Component {
   render() {
