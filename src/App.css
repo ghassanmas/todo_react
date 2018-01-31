@@ -1,12 +1,19 @@
 .App {
   text-align: center;
 }
-
+.item {
+  display: flex;
+  align-content: space-around;
+  justify-content: space-around;
+}
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
 }
 
+ul {
+  list-style-type: none;
+}
 .App-header {
   background-color: #222;
   height: 150px;
